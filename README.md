@@ -2,7 +2,7 @@
 
 Office LTSC installer, activated with legal GVLK and KMS keys.
 
-Download at end of page.
+Download at end of Readme.
 
 ## Installation
 
