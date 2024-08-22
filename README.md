@@ -1,12 +1,12 @@
 # Office-LTSC-Installer-with-Activator
 
-Office LTSC installer, activated with legal GVLK keys.
+Office LTSC installer, activated with legal GVLK and KMS keys.
 
 ## Installation
 
 - Office will be installed in your OS main language.
-- During installation, Office may show [this warning](https://i.ibb.co/ZGLXjxb/Schermafbeelding-2024-08-22-094545.png). Please ignore it; Office will work fine.
-- If Microsoft Defender blocks the `.exe`, use the `sign exe.bat` batch file to sign it again. (Ensure "Hidden items" is enabled)
+- During installation, Office may show [this warning](https://i.ibb.co/ZGLXjxb/Schermafbeelding-2024-08-22-094545.png). If that's the case please use `Meal's Office Activator`.
+- If Microsoft Defender blocks the `.exe`, use the `sign exe.bat` batch file to sign it again. (Ensure "Hidden items" is enabled).
 
 ## Downloads
 
