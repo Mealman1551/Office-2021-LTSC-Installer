@@ -19,8 +19,11 @@ for checking the hashes use [this batchfile](https://s3.filebin.net/filebin/aad3
 
 #### Legal talkies blah blah blah
 Microsoft Office is a trademark and product of Microsoft Corporation
+
 The batchscript batch language is a product of Microsoft Corporation
+
 zip is a opensource product of PKWARE Inc
+
 code in batchscript, installer and activator by Mealman1551
 
 © 2024 Mealman1551
