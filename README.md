@@ -3,7 +3,7 @@ Office LTSC installer and activated with legal GVLK keys
 
 Office will be installed in your OS main language
 
-Office will show [this](https://i.ibb.co/ZGLXjxb/Schermafbeelding-2024-08-22-094545.png) but just ignore it.
+Office will show [this](https://i.ibb.co/ZGLXjxb/Schermafbeelding-2024-08-22-094545.png) but just ignore it. It will work fine.
 
 If Microsoft Defender is blocking the .exe, please use the 'sign exe.bat' batch to sign it again. (Requires enable Hidden items )
 
