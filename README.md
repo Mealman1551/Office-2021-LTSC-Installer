@@ -24,7 +24,7 @@ Is it safe? well... no... but actually yes... ugh of course, it's open-source, s
 
 ## About the Zip-Archive
 
-The Zip archive is created with WinRAR and the compression method is set to _Good_ to ensure good, smooth and seamless unpacking process on any Windows version and with any Zip software. In the future I will compress in _Best_ mode but for now it is on _Good_.
+The Zip archive is created with WinRAR and the compression method is set to _Good_ to ensure a good, smooth and seamless unpacking process on any Windows version and with any Zip software. In the future I will compress in _Best_ mode but for now it is on _Good_.
 
 ## Legal Information
 
