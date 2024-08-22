@@ -20,7 +20,7 @@ To ensure the integrity of the files, you can verify their hashes:
 - **Hash for activator**: `ddf030a283059520057382c31ee11835ddd4695761fb51e311136c989f06bfd5`
 
 To check the hashes, use the `Verify Hash.bat` in the downloaded folder.
-Is it safe? well... no... but actuall yes... ugh of course, it's open-source, see the code of the `Verify Hash.bat` [here](https://gist.github.com/Mealman1551/8495c117a79b35cf6aadf20130fef9a3)
+Is it safe? well... no... but actually yes... ugh of course, it's open-source, see the code of the `Verify Hash.bat` [here](https://gist.github.com/Mealman1551/8495c117a79b35cf6aadf20130fef9a3)
 
 ## About the Zip-Archive
 
