@@ -2,15 +2,13 @@
 
 Office LTSC installer, activated with legal GVLK and KMS keys.
 
+Download at end of page.
+
 ## Installation
 
 - Office will be installed in your OS main language.
 - After installation, Office may show [this warning](https://i.ibb.co/ZGLXjxb/Schermafbeelding-2024-08-22-094545.png). If that's the case please use `Meal's Office Activator.exe`.
 - If Microsoft Defender blocks the or delete the `.exe`, use the `sign exe.bat` batch file to sign it again. (Ensure "Hidden items" is enabled).
-
-## Downloads
-
-- Direct download: [![Download](https://img.shields.io/badge/Download%20Office%20LTSC%202021%20ProPlus-purple?style=for-the-badge)](https://github.com/Mealman1551/Office-LTSC-Installer/raw/main/Microsoft%20Office%202021%20ProPlus.zip)
 
 ## Safety and Security
 
@@ -33,5 +31,8 @@ The Zip archive is created with WinRAR and the compression method is set to _Goo
 - **ZIP** is an open-source product of PKWARE Inc.
 - **Code** in the batch script, installer, and activator by Mealman1551.
 
-###### © 2024 Mealman1551
+## Downloads
 
+- Direct download: [![Download](https://img.shields.io/badge/Download%20Office%20LTSC%202021%20ProPlus-purple?style=for-the-badge)](https://github.com/Mealman1551/Office-LTSC-Installer/raw/main/Microsoft%20Office%202021%20ProPlus.zip)
+
+###### © 2024 Mealman1551
