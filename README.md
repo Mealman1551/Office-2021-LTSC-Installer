@@ -11,7 +11,7 @@ Office LTSC installer, activated with legal GVLK and KMS keys.
 ## Downloads
 
 - Direct download: [![Download](https://img.shields.io/badge/Download%20Office%20LTSC%202021%20ProPlus-purple?style=for-the-badge)](https://github.com/Mealman1551/Office-LTSC-Installer/raw/main/Microsoft%20Office%202021%20ProPlus.zip)
-
+[![Download](https://img.shields.io/badge/Download%20Office%202021%20LTSC?style=flat)](img.bb)
 ## Safety and Security
 
 To ensure the integrity of the files, you can verify their hashes:
