@@ -1,4 +1,4 @@
-# Office-LTSC-Installer
+# Office-LTSC-Installer-with-Activator
 
 Office LTSC installer, activated with legal GVLK keys.
 
