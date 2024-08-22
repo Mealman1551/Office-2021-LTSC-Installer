@@ -26,4 +26,4 @@ zip is a opensource product of PKWARE Inc
 
 code in batchscript, installer and activator by Mealman1551
 
-© 2024 Mealman1551
+##### © 2024 Mealman1551
