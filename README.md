@@ -2,7 +2,7 @@
 
 Office LTSC installer, activated with legal GVLK and KMS keys.
 
-**Download at end of Readme**
+**Download at end of Readme.**
 
 ## Installation
 
@@ -34,6 +34,6 @@ The Zip archive is created with WinRAR and the compression method is set to _Goo
 ## Downloads
 
 - Direct download: [![Download](https://img.shields.io/badge/Download%20Office%20LTSC%202021%20ProPlus-purple?style=for-the-badge)](https://github.com/Mealman1551/Office-LTSC-Installer/raw/main/Microsoft%20Office%202021%20ProPlus.zip)
-- Or downloads in more extensions available [here](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/blob/2ca55e34ca2204899cf11eb469badbeebb1556df/README.md)
+- Or downloads in more extensions available [here](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/blob/main/README.md)
 
 ###### © 2024 Mealman1551
