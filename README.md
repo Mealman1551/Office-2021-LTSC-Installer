@@ -34,5 +34,6 @@ The Zip archive is created with WinRAR and the compression method is set to _Goo
 ## Downloads
 
 - Direct download: [![Download](https://img.shields.io/badge/Download%20Office%20LTSC%202021%20ProPlus-purple?style=for-the-badge)](https://github.com/Mealman1551/Office-LTSC-Installer/raw/main/Microsoft%20Office%202021%20ProPlus.zip)
+- Or downloads in more extensions available [here](https://gist.github.com/Mealman1551/cf587c739655b7a929b1798c77edb06e)
 
 ###### © 2024 Mealman1551
