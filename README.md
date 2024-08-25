@@ -32,7 +32,7 @@ The Zip archive is created with WinRAR and the compression method is set to _Goo
 - **Code** in the batch script, installer, and activator by Mealman1551.
 
 ## Downloads
-Compatible with: [![Windows10/11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
+Compatible with: [![Windows10/11](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows/)
 - Direct download: [![Download](https://img.shields.io/badge/Download%20Office%20LTSC%202021%20ProPlus-purple?style=for-the-badge)](https://github.com/Mealman1551/Office-LTSC-Installer/raw/main/Microsoft%20Office%202021%20ProPlus.zip)
 - Or downloads in more extensions available [here](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/blob/main/README.md)
 
