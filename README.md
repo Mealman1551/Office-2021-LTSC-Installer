@@ -1,5 +1,4 @@
 # Office-LTSC-Installer-with-Activator
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 Office LTSC installer, activated with legal GVLK and KMS keys.
 
 ***Download at end of Readme.***
@@ -37,5 +36,8 @@ Compatible with: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/
 
 - Direct download: [![Download](https://img.shields.io/badge/Download%20Office%20LTSC%202021%20ProPlus-purple?style=plastic)](https://github.com/Mealman1551/Office-LTSC-Installer/raw/main/Microsoft%20Office%202021%20ProPlus.zip)
 - Or downloads in more extensions available [here](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/blob/main/README.md)
+
+#### Stats
+https://img.shields.io/github/downloads/Mealman1551/Office-LTSC-Installer/total.svg
 
 ###### © 2024 Mealman1551
