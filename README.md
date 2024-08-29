@@ -1,5 +1,5 @@
 # Office-LTSC-Installer-with-Activator
-
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 Office LTSC installer, activated with legal GVLK and KMS keys.
 
 ***Download at end of Readme.***
