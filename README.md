@@ -35,7 +35,7 @@ The Zip archive is created with WinRAR and the compression method is set to _Goo
 Compatible with: <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Windows_logo_2012-Black.svg/480px-Windows_logo_2012-Black.svg.png" alt="Windows 10" width="15"/> **&** <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Windows_logo_-_2021_%28Black%29.svg/480px-Windows_logo_-_2021_%28Black%29.svg.png" alt="Windows 11" width="15"/> 
 
 - Direct download: [![Download](https://img.shields.io/badge/Download%20Office%20LTSC%202021%20ProPlus-purple?style=plastic)](https://github.com/Mealman1551/Office-LTSC-Installer/raw/main/Microsoft%20Office%202021%20ProPlus.zip)
-- Or downloads in more extensions available [here](https://github.com/Mealman1551/Office-LTSC-Other-Mirrors/blob/main/README.md)
+- Or downloads in more extensions available [here](https://github.com/Mealman1551/Office-2021-LTSC-Installer/blob/Downloads/README.md)
 
 ![Made with ❤️](https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20Mealman1551-blue?style=for-the-badge)
 
